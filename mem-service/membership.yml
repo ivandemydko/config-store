@@ -8,3 +8,6 @@ vehicle:
  default:
   model: cross over
 duration: all
+
+service:
+ port: 8081
