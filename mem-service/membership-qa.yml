@@ -8,3 +8,6 @@ vehicle:
  default:
   model: qa
 duration: all
+
+service:
+ port: 8081
