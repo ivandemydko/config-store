@@ -6,7 +6,7 @@ member:
   discount: 3
 vehicle:
  default:
-  model: cross over
+  model: default
 duration: all
 
 service:
