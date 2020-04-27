@@ -1,5 +1,5 @@
-server:
- port: 8081
+service:
+  port: 8081
 
 member:
  rent:
